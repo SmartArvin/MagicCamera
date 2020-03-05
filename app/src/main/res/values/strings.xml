@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">魔法相机</string>
+
+
+    <string name="str_nav_frame">相框</string>
+    <string name="str_nav_filter">滤镜</string>
+    <string name="str_nav_sticker">贴纸</string>
+    <string name="str_nav_label">标签</string>
+</resources>
